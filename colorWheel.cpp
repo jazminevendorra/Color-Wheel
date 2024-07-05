@@ -1,5 +1,4 @@
 /*
-	< Jazmin Even Dorra >
 
 	colorWheel.cpp
 
